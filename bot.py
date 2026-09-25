@@ -102,17 +102,17 @@ class Bot(Client):
             except Exception as e:
                 self.LOGGER(__name__).warning(e)
                 self.LOGGER(__name__).warning(f"Make Sure bot is Admin in DB Channel, and Double check the CHANNEL_ID Value, Current Value {CHANNEL_ID}")
-                self.LOGGER(__name__).info("\nBot failed to initialize correctly. Join https://t.me/UNRATED_CODER for support")
+                self.LOGGER(__name__).info("\nBot failed to initialize correctly. Join https://t.me/Nyx_LostCore for support")
         else:
             self.LOGGER(__name__).warning("CHANNEL_ID is not set. Bot will not be able to store/retrieve files.")
 
         self.set_parse_mode(ParseMode.HTML)
-        self.LOGGER(__name__).info(f"Bot Running..!\n\nCreated by \n@UNRATED_CODER")
-        self.LOGGER(__name__).info(f"""BOT DEPLOYED BY @UNRATED_CODER""")
+        self.LOGGER(__name__).info(f"Bot Running..!\n\nCreated by \n@Nyx_LostCore")
+        self.LOGGER(__name__).info(f"""BOT DEPLOYED BY @Nyx_LostCore""")
 
         self.set_parse_mode(ParseMode.HTML)
         self.username = usr_bot_me.username
-        self.LOGGER(__name__).info(f"Bot Running..! Made by @UNRATED_CODER")
+        self.LOGGER(__name__).info(f"Bot Running..! Made by @Nyx_LostCore")
 
 
         try:
