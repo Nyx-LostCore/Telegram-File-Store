@@ -192,8 +192,8 @@ async def start_command(client: Client, message: Message):
     else:
         reply_markup = InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton('ᴀɴɪᴍᴇꜱ', url='https://t.me/UNRATED_CODER', style="primary"),
-                InlineKeyboardButton('ʙᴀꜱᴇ', url='https://t.me/UNRATED_CODER', style="primary")],
+                [InlineKeyboardButton('ᴀɴɪᴍᴇꜱ', url='https://t.me/akito_yamada_a', style="primary"),
+                InlineKeyboardButton('ʙᴀꜱᴇ', url='https://t.me/Anime_Kyoto', style="primary")],
                 [InlineKeyboardButton('• ᴀʙᴏᴜᴛ', callback_data='about', style="primary"),
                 InlineKeyboardButton(' ʜᴇʟᴘ •', callback_data='help', style="primary")],
                 [InlineKeyboardButton("ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ", url='https://t.me/UNRATED_CODER', style="success")]
