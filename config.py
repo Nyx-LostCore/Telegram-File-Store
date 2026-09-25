@@ -28,8 +28,8 @@ DB_NAME = os.environ.get("DB_NAME", "Filestore")
 FSUB_LINK_EXPIRY = int(os.getenv("FSUB_LINK_EXPIRY", "10"))
 BAN_SUPPORT = os.environ.get("BAN_SUPPORT", "https://t.me/AniReal_Chat_Group_Asia")
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "200"))
-START_PIC = os.environ.get("START_PIC", "https://graph.org/file/0591ce5558c3ec8fe7612-263292508134daf3e1.jpg")
-FORCE_PIC = os.environ.get("FORCE_PIC", "https://graph.org/file/fdc4357abfaba23255e98-24d1bbfa3888cdfcfe.jpg")
+START_PIC = os.environ.get("START_PIC", "https://imgyx.pages.dev/bO85U")
+FORCE_PIC = os.environ.get("FORCE_PIC", "https://imgyx.pages.dev/4oPY7")
 
 HELP_TXT = "<b>ʜᴜʜʜʜʜʜ!... ʜᴇʟᴘ? 😮‍💨</b>\n<b><blockquote>⚡ ᴛʜɪs ᴘʀɪᴠᴀᴛᴇ ᴘʀᴇᴍɪᴜᴍ ʙᴏᴛ ɪs ᴍʏ ᴘᴇʀsᴏɴᴀʟ ɢᴀʀᴅᴇɴ! ᴏɴʟʏ ᴍʏ ᴄʜᴏsᴇɴ ᴀᴅᴍɪɴs & ᴍʏ ᴅᴀʀʟɪɴɢs ᴄᴀɴ ᴛᴏᴜᴄʜ ɪᴛ. 🔐 ᴛᴏ sᴛᴇᴀʟ ᴀ ɢʟɪᴍᴘsᴇ ᴀɴᴅ ɢᴇᴛ ꜰɪʟᴇs, ᴊᴏɪɴ ᴍʏ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴀsᴋ ꜰᴏʀ ᴛʜᴇ ᴅɪʀᴇᴄᴛ ʟɪɴᴋ! 🎯 ᴛʜɪs ɪs ᴇxᴄʟᴜsɪᴠᴇʟʏ ꜰᴏʀ ʏᴏᴜ. ɢᴇᴛ ʏᴏᴜʀ ꜰɪʟᴇs sᴇᴄᴜʀᴇʟʏ, ᴀɴᴅ ᴅᴏɴ'ᴛ ᴍᴀᴋᴇ ᴍᴇ ᴡᴀɪᴛ!</blockquote></b>\n<b>• ᴊᴏɪɴ ᴍʏ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ: @Unrated_Coder\nᴡᴀɴᴛ ᴍᴏʀᴇ ᴏꜰ ᴍᴇ? ᴜsᴇ /help!</b>"
 
