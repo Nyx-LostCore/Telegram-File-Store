@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 load_dotenv()
 from logging.handlers import RotatingFileHandler
 
-TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
+TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "8778402563:AAG5OCL1SFfqcXiKH0lk5hXFIKm0pigQkmk")
 APP_ID = int(os.environ.get("APP_ID", "36428426"))
 API_HASH = os.environ.get("API_HASH", "30cba30aa38699e77ce264365e327528")
 
