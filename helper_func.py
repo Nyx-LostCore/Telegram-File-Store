@@ -178,9 +178,9 @@ admin = filters.create(check_admin)
 
 
 ISHTAR_IMAGES = [
-    "https://imgyx.pages.dev/yyazg",
-    "https://imgyx.pages.dev/ZFQ2L",
-    "https://imgyx.pages.dev/M9sMX",
+    "https://imgyx.pages.dev/bO85U",
+    "https://imgyx.pages.dev/4oPY7",
+    "https://imgyx.pages.dev/SIRqj",
     "https://imgyx.pages.dev/t6xVX",
     "https://imgyx.pages.dev/sRVQy"
 ]
