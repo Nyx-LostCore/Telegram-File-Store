@@ -39,7 +39,7 @@ ABOUT_TXT = """<b>🤖 ɪꜱʜᴛᴀʀ ʙᴏᴛ - ᴀʙᴏᴜᴛ ᴍᴇ</b>
 🔗 ᴀᴄᴄᴇꜱꜱ: ɢᴇᴛ ᴛʜᴇᴍ ᴅɪʀᴇᴄᴛʟʏ ᴛʜʀᴏᴜɢʜ ᴍʏ ꜱᴘᴇᴄɪᴀʟ ʟɪɴᴋꜱ.
 ⚡ ᴜᴘᴛɪᴍᴇ: ᴀʟᴡᴀʏꜱ ᴀᴄᴛɪᴠᴇ ᴊᴜꜱᴛ ꜰᴏʀ ʏᴏᴜ.
 🌐 ᴄʜᴀɴɴᴇʟꜱ: ᴊᴏɪɴ ᴜꜱ, ᴅᴏɴ'ᴛ ʙᴇ ꜱʜʏ!</blockquote></b>
-<b><blockquote>◈ ᴄʀᴇᴀᴛᴏʀ: <a href="https://t.me/UNRATED_CODER">ᴜɴʀᴀᴛᴇᴅ ᴄᴏᴅᴇʀ</a>\n◈ ꜰᴏᴜɴᴅᴇʀ: <a href="https://t.me/UNRATED_CODER">ᴜɴʀᴀᴛᴇᴅ ᴄᴏᴅᴇʀ</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href="https://t.me/UNRATED_CODER">ᴜɴʀᴀᴛᴇᴅ ᴄᴏᴅᴇʀ</a></blockquote></b>"""
+<b><blockquote>◈ ᴄʀᴇᴀᴛᴏʀ: <a href="https://t.me/nyx_lostcore">ʟᴏꜱᴛ ᴇxɪꜱᴛᴇɴᴄᴇ</a>\n◈ ꜰᴏᴜɴᴅᴇʀ: <a href="https://t.me/akito_yamada_a">ᴀᴋɪᴛᴏ ʏᴀᴍᴀᴅᴀ</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href="https://t.me/akito_yamada_a">ʏᴀᴍᴀᴅᴀ ᴋᴜɴɴ</a></blockquote></b>"""
 START_MSG = os.environ.get("START_MESSAGE", "<b>💖 ʜᴇʟʟᴏ {first}! 🥀\n<blockquote expandable>ɪ'ᴍ ʏᴀᴍᴀᴅᴀ ᴀ ꜰɪʟᴇ ꜱʜᴀʀɪɴɢ ʙᴏᴛ ᴡᴏʀᴋɪɴɢ ꜰᴏʀ ʏᴏᴜ ✨ ʏᴏᴜʀ ᴘᴇʀꜱᴏɴᴀʟ ᴘʟᴀʏꜰᴜʟ ɢᴜʏ ᴏꜰ ᴀɴɪᴍᴇ & ꜰɪʟᴇ ᴀᴄᴄᴇꜱꜱ 🚀\n\nɪ ᴄᴀɴ ꜱᴀᴠᴇ ᴘʀɪᴠᴀᴛᴇ ꜰɪʟᴇꜱ ɪɴ ᴄʜᴀɴɴᴇʟꜱ🔗 & ɢɪᴠᴇ ʏᴏᴜ ᴀᴄᴄᴇꜱꜱ ᴠɪᴀ ᴀ ꜱᴘᴇᴄɪᴀʟ ʟɪɴᴋ.\n\nᴅᴏɴ'ᴛ ᴋᴇᴇᴘ ᴍᴇ ᴡᴀɪᴛɪɴɢ, ᴏʀ ɪ ᴍɪɢʜᴛ ɢᴇᴛ ʙᴏʀᴇᴅ ᴀɴᴅ ᴛᴇᴀꜱᴇ ʏᴏᴜ! 😉</blockquote>\n<blockquote>🔰 ᴄʜᴇᴄᴋ ᴏᴜᴛ ᴍʏ ᴄʜᴀɴɴᴇʟꜱ & ɢᴇᴛ ʏᴏᴜʀ ꜰɪʟᴇꜱ ɪɴꜱᴛᴀɴᴛʟʏ! 🔰</blockquote></b>")
 FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "<b>🚨 ᴘʟᴇᴀꜱᴇ ᴊᴏɪɴ ᴍʏ ᴄʜᴀɴɴᴇʟꜱ ꜰɪʀꜱᴛ!</b>\n<blockquote>⚡ ᴛᴏ ᴄᴏɴᴛɪɴᴜᴇ, ᴍᴀᴋᴇ ꜱᴜʀᴇ ʏᴏᴜ'ᴠᴇ ᴊᴏɪɴᴇᴅ ᴀʟʟ ᴛʜᴇ ʀᴇǫᴜɪʀᴇᴅ ᴄʜᴀɴɴᴇʟꜱ ᴍᴇɴᴛɪᴏɴᴇᴅ ʙᴇʟᴏᴡ.\nᴏɴᴄᴇ ᴅᴏɴᴇ, ᴄʟɪᴄᴋ ᴛʜᴇ <b>ᴛʀʏ ᴀɢᴀɪɴ</b> ʙᴜᴛᴛᴏɴ ᴛᴏ ᴘʀᴏᴠᴇ ʏᴏᴜʀ ʟᴏʏᴀʟᴛʏ!</blockquote>\n\n<blockquote>💡<i>ɪꜰ ʏᴏᴜ'ᴇ ꜱᴛʀᴜɢɢʟɪɴɢ ʟɪᴋᴇ ᴀ ᴄʟᴜᴍꜱʏ ʜᴜᴍᴀɴ, ᴛʏᴘᴇ <code>/help</code> ᴛᴏ ᴡᴀᴛᴄʜ ᴍʏ ᴛᴜᴛᴏʀɪᴀʟ ᴀɴᴅ ꜰɪx ɪᴛ ᴇᴀꜱɪʟʏ!</i></blockquote>")
 
